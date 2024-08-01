@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/KitchenObject.UI/obj
+/KitchenObject.BL/bin/Debug/net8.0
+/KitchenObject.BL/obj
+/KitchenObject.UI/bin/Debug/net8.0
